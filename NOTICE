@@ -1,0 +1,31 @@
+evidence-driven-rebuild
+Copyright (c) 2026 Dreamszhu and the evidence-driven-rebuild contributors.
+
+This project is licensed under the MIT License or the Apache License,
+Version 2.0, at your option (LICENSE-MIT, LICENSE-APACHE).
+SPDX-License-Identifier: MIT OR Apache-2.0
+
+Portions of this work are derived from Craft Anything
+(https://github.com/storytold/craft-anything, upstream commit 56aa3197, 2026-11-08):
+
+    Craft Anything
+    Copyright (c) 2026 ArtCraft Team and the Craft Anything contributors.
+    Licensed under the MIT License or the Apache License, Version 2.0,
+    at your option.
+
+Those portions consist of verbatim English prompt text quoted in references/,
+together with restructured translations, annotations, and tool-decoupled
+templates derived from it. They have been modified: reordered into a
+study / build / check / refine sequence, annotated in Chinese, parameterised
+with {{PLACEHOLDERS}}, and had upstream tool names mapped to generic concepts.
+See ATTRIBUTION.md for the per-file list of sources and the nature of each
+derivation.
+
+The ArtCraft name, wordmark and logos are trademarks of the ArtCraft Team.
+They are not open source and are not covered by the licences above. No brand
+assets, fonts, icons or application code from Craft Anything are included in
+this repository. "Craft Anything" is referenced solely to identify the source
+of the quoted prompt text.
+
+This project is an independent work. It is not affiliated with, endorsed by,
+sponsored by, or maintained by the ArtCraft Team or the Craft Anything project.

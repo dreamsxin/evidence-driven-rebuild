@@ -1,0 +1,16 @@
+# Distribution archives are built locally and attached to GitHub Releases,
+# not committed to the repository.
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local notes
+*.local.md
